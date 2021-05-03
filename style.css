@@ -7,6 +7,11 @@ p {
 h1 {
   color: #194C19
   text-transform: uppercase;
+  margin: 20px;
+  padding: 40px;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: red;
 }
 
 h1, h2 {
